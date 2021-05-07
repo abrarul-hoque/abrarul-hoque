@@ -2,10 +2,7 @@
   <h2>👋 Welcome to <a href="https://abrarul.netlify.app" target="_blank">Abrarul's</a> Git Profile 👋 </h2>
 </div>
 
-
-<div align="left">
-  <h2>FIND ME ONLINE</h2>
-</div>
+# 📫 REACH ME
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarul-hoque/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023803544630)
@@ -13,15 +10,12 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jubairctg99@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-4fce5d?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801846112525)
 
-<div align="left">
-  <h2>CAREER OBJECTIVE</h2>
-</div>
+# CAREER OBJECTIVE
 <p align="justify">
   Looking for the job of Entry Level Web Developer. To join the team in implementing user interaction following client-approved mock-ups, such as wireframes, visual design         comprehensive layouts, and prototypes. Bringing a keen eye for details, strong ability to implement mock-ups, and understanding of great user experience design; More than 01 year experience in visual UI / front-end development work, HTML5, CSS3, Bootstrap, jQuery, JavaScript, ReactJS, Matrial UI and WordPress customization.
  </p>
 
-
-<h2>LANGUAGE & SKILLS</h2>
+# LANGUAGE & SKILLS
 
 <div align="center">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -41,6 +35,15 @@
   <img src="https://img.shields.io/badge/Netlify-15847b?style=for-the-badge&logo=Netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cpanel-FF6C2C?style=for-the-badge&logo=CPanel&logoColor=white"/> 
 </div>
+
+<h2>Github Stats </h2>
+
+<img width="550px" alt="Abrarul Hoque's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Abrarulctg&show_icons=true"/>
+
+<h2> Most Used Language </h2>
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrarulctg&card_width=550)](https://github.com/Abrarulctg/Abrarulctg)
+
 
 
 <!--
