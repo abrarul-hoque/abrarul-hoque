@@ -36,27 +36,10 @@
   <img src="https://img.shields.io/badge/Cpanel-FF6C2C?style=for-the-badge&logo=CPanel&logoColor=white"/> 
 </div>
 
-<h2>Github Stats </h2>
-
-<img width="550px" alt="Abrarul Hoque's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Abrarulctg&show_icons=true"/>
-
-<h2> Most Used Language </h2>
+# Most Used Language
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrarulctg&card_width=550)](https://github.com/Abrarulctg/Abrarulctg)
 
+# Github Stats
 
-
-<!--
-**Abrarulctg/Abrarulctg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="550px" alt="Abrarul Hoque's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Abrarulctg&show_icons=true"/>
