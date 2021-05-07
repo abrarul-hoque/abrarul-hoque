@@ -36,10 +36,11 @@
   <img src="https://img.shields.io/badge/Cpanel-FF6C2C?style=for-the-badge&logo=CPanel&logoColor=white"/> 
 </div>
 
+
 # Most Used Language
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrarulctg&card_width=550)](https://github.com/Abrarulctg/Abrarulctg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrarulctg&card_width=480)](https://github.com/Abrarulctg/github-readme-stats)
 
 # Github Stats
 
-<img width="550px" alt="Abrarul Hoque's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Abrarulctg&show_icons=true"/>
+<img width="480px" alt="Abrarul Hoque's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Abrarulctg&show_icons=true"/>
