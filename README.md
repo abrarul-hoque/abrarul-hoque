@@ -12,7 +12,7 @@
 
 # CAREER OBJECTIVE
 <p align="justify">
-  Looking for the job of Entry Level Web Developer. To join the team in implementing user interaction following client-approved mock-ups, such as wireframes, visual design         comprehensive layouts, and prototypes. Bringing a keen eye for details, strong ability to implement mock-ups, and understanding of great user experience design; More than 02 year experience in visual UI / front-end development work, HTML5, CSS3, Bootstrap, jQuery, JavaScript, ReactJS, Matrial UI and WordPress customization.
+  Looking for the job of Entry Level Web Developer. To join the team in implementing user interaction following client-approved mock-ups, such as wireframes, visual design         comprehensive layouts, and prototypes. Bringing a keen eye for details, strong ability to implement mock-ups, and understanding of great user experience design; More than 01 year experience in visual UI / front-end development work, HTML5, CSS3, Bootstrap, jQuery, JavaScript, ReactJS, Matrial UI and WordPress customization.
  </p>
 
 # LANGUAGE & SKILLS
