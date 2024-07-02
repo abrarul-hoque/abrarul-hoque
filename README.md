@@ -13,9 +13,11 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jubairctg99@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-4fce5d?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801846112525)
 
-# CAREER OBJECTIVE
+# Professional Summary
 <p align="justify">
-  Looking for the job of Entry Level Web Developer. To join the team in implementing user interaction following client-approved mock-ups, such as wireframes, visual design         comprehensive layouts, and prototypes. Bringing a keen eye for details, strong ability to implement mock-ups, and understanding of great user experience design; More than 01 year experience in visual UI / front-end development work, HTML5, CSS3, Bootstrap, jQuery, JavaScript, ReactJS, Matrial UI and WordPress customization.
+Hi, I'm Mohammad Abrarul Hoque Jubair, a passionate web developer with a solid foundation in engineering and computer science. I began my web development journey in January 2020 and have since honed my skills in various technologies including HTML, CSS, Bootstrap, TailwindCSS, JavaScript, ES6, React, Node.js, Express, and Firebase.
+<br>
+I hold a diploma in engineering from Chattogram Polytechnic Institute and a bachelor's degree from Islamic Arabic University. Currently, I am pursuing a B.Sc. in Computer Science and Engineering at the University of Creative Technology Chittagong.
  </p>
  
 ## :chart_with_upwards_trend: Current Stats
