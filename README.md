@@ -1,11 +1,14 @@
 <h2 align="center">👋 Welcome to <a href="https://abrarul.netlify.app" target="_blank">Abrarul's</a> Git Profile 👋 </h2>
-<div>
+<p align="center">
         <img align="center" src="./github-header-image-abrar.png" alt="">
-</div>
+</p>
 
 <br/>
- <a align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=24&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer" alt="Typing SVG" /></a>
+<p align="center">
+        <a   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=24&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer" alt="Typing SVG" /></a>
 
+</p>
+ 
 # 📫 REACH ME
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarul-hoque/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023803544630)
