@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jubairctg99@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-4fce5d?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801846112525)
 
-# Professional Summary
+# 🖊️ Professional Summary
 <p align="justify">
 Hi, I'm Mohammad Abrarul Hoque Jubair, a passionate web developer with a solid foundation in engineering and computer science. I began my web development journey in January 2020 and have since honed my skills in various technologies including HTML, CSS, Bootstrap, TailwindCSS, JavaScript, ES6, React, Node.js, Express, and Firebase.
 <br>
@@ -26,8 +26,7 @@ I hold a diploma in engineering from Chattogram Polytechnic Institute and a bach
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarul-hoque&theme=react&hide_border=true&background=002366&stroke=FFFFFF&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=FFFFFF" />
 </p>
 
-# :computer: Technical Skills
-## Familiar Technologies:
+## :computer: Familiar Technologies:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Html5-e34c26?style=for-the-badge&logo=Html5&logoColor=white"/>
