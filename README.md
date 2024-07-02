@@ -7,7 +7,6 @@
  <a align="center"  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=24&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer" alt="Typing SVG" /></a>
 
 # 📫 REACH ME
-
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarul-hoque/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023803544630)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abrar_1125) 
@@ -18,6 +17,12 @@
 <p align="justify">
   Looking for the job of Entry Level Web Developer. To join the team in implementing user interaction following client-approved mock-ups, such as wireframes, visual design         comprehensive layouts, and prototypes. Bringing a keen eye for details, strong ability to implement mock-ups, and understanding of great user experience design; More than 01 year experience in visual UI / front-end development work, HTML5, CSS3, Bootstrap, jQuery, JavaScript, ReactJS, Matrial UI and WordPress customization.
  </p>
+ 
+## :chart_with_upwards_trend: Current Stats
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abrarul-hoque&theme=react&hide_border=true&background=002366&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 # LANGUAGE & SKILLS
 
