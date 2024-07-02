@@ -3,18 +3,16 @@
         <img align="center" src="./github-header-image-abrar.png" alt="">
 </p>
 <p align="center">
-        <a   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=28&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer" alt="Typing SVG" /></a>
+        <a href="https://www.linkedin.com/in/abrarul-hoque"><img src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=28&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer" alt="Typing SVG" /></a>
 </p>
  
 # 📫 REACH ME
 <p align="center">
-        <a href="https://www.linkedin.com/in/abrarul-hoque/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-        [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrarul-hoque/)
-        [![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023803544630)
-        [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abrar_1125) 
-        [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jubairctg99@gmail.com)
-        [![Whatsapp](https://img.shields.io/badge/Whatsapp-4fce5d?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801846112525)
+        <a href="https://www.linkedin.com/in/abrarul-hoque"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+        <a href="https://www.facebook.com/https://www.facebook.com/jubairctg99"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
+        <a href="https://twitter.com/abrar_1125"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
+        <a href="mailto:jubairctg99@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+        <a href="https://api.whatsapp.com/send?phone=8801846112525"> <img src="https://img.shields.io/badge/Whatsapp-4fce5d?style=for-the-badge&logo=Whatsapp&logoColor=white"/> </a>
 </p>
 
 # 🖊️ Professional Summary
