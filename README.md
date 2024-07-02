@@ -4,8 +4,16 @@
         <img src="./github-header-image-abrar.png" alt="">
 </div>
   <!--   ![Header](./github-header-image-abrar.png) -->
-  <span style="background-color: yellow; color: black; padding: 5px;">This text has a yellow background</span>
+<div>
+  # My GitHub Profile
 
+Welcome to my GitHub profile!
+
+Here is some highlighted text:
+
+<span style="background-color: yellow; color: black; padding: 5px;">This text has a yellow background</span>
+
+</div>
 <br/>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=24&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer" alt="Typing SVG" /></a>
 </div> -->
