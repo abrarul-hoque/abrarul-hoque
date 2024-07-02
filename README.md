@@ -27,7 +27,7 @@ I hold a diploma in engineering from Chattogram Polytechnic Institute and a bach
 </p>
 
 # :computer: Technical Skills
-##Familiar Technologies:
+## Familiar Technologies:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Html5-e34c26?style=for-the-badge&logo=Html5&logoColor=white"/>
@@ -35,11 +35,13 @@ I hold a diploma in engineering from Chattogram Polytechnic Institute and a bach
   <img src="https://img.shields.io/badge/Tailwindcss-0ea5e9?style=for-the-badge&logo=TailwindCss&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=black"/>
+        <br>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/mongodb-E8E7D5?style=for-the-badge&logo=mongodb&logoColor=#4DB33D"/>
   <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>
+          <br>
   <img src="https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=Wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-6567a5?style=for-the-badge&logo=Heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-15847b?style=for-the-badge&logo=Netlify&logoColor=white"/>
