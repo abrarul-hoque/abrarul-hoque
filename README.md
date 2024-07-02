@@ -3,7 +3,7 @@
         <img align="center" src="./github-header-image-abrar.png" alt="">
 </p>
 <p align="center">
-        <a   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=24&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer" alt="Typing SVG" /></a>
+        <a   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=28&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer" alt="Typing SVG" /></a>
 </p>
  
 # 📫 REACH ME
@@ -51,8 +51,8 @@ I hold a diploma in engineering from Chattogram Polytechnic Institute and a bach
 
 # Most Used Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrarulctg&card_width=480)](https://github.com/Abrarulctg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrarul-hoque&card_width=480)](https://github.com/abrarul-hoque/github-readme-stats)
 
 # Github Stats
 
-<img width="480px" alt="Abrarul Hoque's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Abrarulctg&show_icons=true"/>
+<img width="480px" alt="Abrarul Hoque's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=abrarul-hoque&show_icons=true"/>
