@@ -1,7 +1,14 @@
 <div align="center">  
   <h2>👋 Welcome to <a href="https://abrarul.netlify.app" target="_blank">Abrarul's</a> Git Profile 👋 </h2>
-  <img src="./github-header-image-abrar.png">
-<!--   ![Header](./github-header-image-abrar.png) -->
+<div style="position: relative;">
+        <div style="position: absolute; top: 120px; left: 180px; ">
+            <a href="https://www.linkedin.com/in/abrarul-hoque"><img
+                    src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=24&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer"
+                    alt="Typing SVG" /></a>
+        </div>
+        <img src="./github-header-image-abrar.png" alt="">
+    </div>
+  <!--   ![Header](./github-header-image-abrar.png) -->
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=tahoma&weight=700&size=24&duration=4000&pause=100&color=FF9F00&background=0040BB00&center=true&vCenter=true&random=false&width=435&lines=MERN+Developer;Frontend+Developer;React+Developer;Jr.+Web+Developer" alt="Typing SVG" /></a>
 </div>
