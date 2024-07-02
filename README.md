@@ -2,6 +2,7 @@
   <h2>👋 Welcome to <a href="https://abrarul.netlify.app" target="_blank">Abrarul's</a> Git Profile 👋 </h2>
 <div>
         <img src="./github-header-image-abrar.png" alt="">
+        <img src="./name.png" alt="">
 </div>
   <!--   ![Header](./github-header-image-abrar.png) -->
 <div>
